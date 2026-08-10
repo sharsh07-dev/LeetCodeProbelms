@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
