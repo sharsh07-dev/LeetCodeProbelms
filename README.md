@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
 ## Math
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
