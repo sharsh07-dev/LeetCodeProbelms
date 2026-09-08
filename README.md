@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
+| [3870-count-commas-in-range](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
