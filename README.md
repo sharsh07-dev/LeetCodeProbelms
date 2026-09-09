@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
