@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0707-design-linked-list) |
 ## Design
@@ -112,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
