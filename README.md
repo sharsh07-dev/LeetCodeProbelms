@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
