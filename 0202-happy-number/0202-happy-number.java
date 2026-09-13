@@ -1,4 +1,15 @@
 class Solution {
+     public int sumOf(int n) {
+            int sum=0;
+            while( n!=0 ){
+            
+            int digit =0;
+                digit = n %10;
+                sum += digit * digit;
+                n = n /10;
+        }
+       return sum;
+         }
     public boolean isHappy(int n) {
       
         int slow = n;
@@ -11,15 +22,5 @@ class Solution {
            return slow==1;     
         }
        
-         public int sumOf(int n) {
-            int sum=0;
-            while( n!=0 ){
-            
-            int digit =0;
-                digit = n %10;
-                sum += digit * digit;
-                n = n /10;
-        }
-       return sum;
-         }
+        
     }
