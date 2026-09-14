@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0876-middle-of-the-linked-list) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0876-middle-of-the-linked-list) |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
