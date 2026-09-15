@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0412-fizz-buzz) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
