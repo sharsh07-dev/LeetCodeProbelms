@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
