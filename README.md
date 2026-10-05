@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0209-minimum-size-subarray-sum) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0412-fizz-buzz) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
