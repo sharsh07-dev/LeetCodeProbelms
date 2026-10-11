@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0148-sort-list) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/0412-fizz-buzz) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharsh07-dev/LeetCodeProbelms/tree/master/1781-sum-of-beauty-of-all-substrings) |
